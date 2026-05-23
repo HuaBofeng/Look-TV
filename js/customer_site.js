@@ -1,10 +1,4 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://bfzyapi.com/api.php/provide/vod/',
-        name: '暴风资源',
-    },
-
-    // ==================== 以下为新增的所有接口 ====================
     dyttzy: {
         api: 'https://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
